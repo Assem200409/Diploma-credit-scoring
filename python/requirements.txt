@@ -1,0 +1,9 @@
+streamlit==1.55.0
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.6.1
+scipy==1.17.1
+tensorflow==2.16.2
+protobuf==4.25.3
+shap==0.46.0
+openai==3.0.0
